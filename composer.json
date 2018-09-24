@@ -20,7 +20,7 @@
     "ext-intl" : "*",
     "ext-json" : "*",
     "ext-gettext" : "*",
-    "rkeet/zf-doctrine-mvc" : "^0.0.4",
+    "rkeet/zf-doctrine-mvc" : "^0.1",
     "rkeet/zf-doctrine-form" : "^1.2"
   },
   "autoload" : {
