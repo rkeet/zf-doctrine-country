@@ -1,0 +1,1199 @@
+[
+  {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham",
+    "numeric": 784,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "AFN",
+    "name": "Afghan Afghani",
+    "numeric": 971,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "ALL",
+    "name": "Albanian Lek",
+    "numeric": "008",
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "AMD",
+    "name": "Armenian Dram",
+    "numeric": "051",
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "ANG",
+    "name": "Netherlands Antillean Guilder",
+    "numeric": 532,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "AOA",
+    "name": "Angolan Kwanza",
+    "numeric": 973,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "ARS",
+    "name": "Argentine Peso",
+    "numeric": "032",
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "AUD",
+    "name": "Australian Dollar",
+    "numeric": "036",
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "AWG",
+    "name": "Aruban Florin",
+    "numeric": 533,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "AZN",
+    "name": "Azerbaijanian Manat",
+    "numeric": 944,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "BAM",
+    "name": "Convertible Mark",
+    "numeric": 977,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "BBD",
+    "name": "Barbados Dollar",
+    "numeric": "052",
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "BDT",
+    "name": "Bangladeshi Taka",
+    "numeric": "050",
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "BGN",
+    "name": "Bulgarian Lev",
+    "numeric": 975,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "BHD",
+    "name": "Bahraini Dinar",
+    "numeric": "048",
+    "digits": 3,
+    "enabled": true
+  },
+  {
+    "code": "BIF",
+    "name": "Burundi Franc",
+    "numeric": 108,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "BMD",
+    "name": "Bermudian Dollar",
+    "numeric": "060",
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "BND",
+    "name": "Brunei Dollar",
+    "numeric": "096",
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "BOB",
+    "name": "Boliviano",
+    "numeric": "068",
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "BRL",
+    "name": "Brazilian Real",
+    "numeric": 986,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "BSD",
+    "name": "Bahamian Dollar",
+    "numeric": "044",
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "BTN",
+    "name": "Bhutanese Ngultrum",
+    "numeric": "064",
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "BWP",
+    "name": "Botswana Pula",
+    "numeric": "072",
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "BYN",
+    "name": "New Belarusian Ruble",
+    "numeric": 933,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "BYR",
+    "name": "Belarusian Ruble",
+    "numeric": 974,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "BZD",
+    "name": "Belize Dollar",
+    "numeric": "084",
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "CAD",
+    "name": "Canadian Dollar",
+    "numeric": 124,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "CDF",
+    "name": "Congolese Franc",
+    "numeric": 976,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "CHF",
+    "name": "Swiss Franc",
+    "numeric": 756,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "CLP",
+    "name": "Chilean Peso",
+    "numeric": 152,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "CNY",
+    "name": "Chinese Yuan Renminbi",
+    "numeric": 156,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "COP",
+    "name": "Colombian Peso",
+    "numeric": 170,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "CRC",
+    "name": "Costa Rican Colon",
+    "numeric": 188,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "CUC",
+    "name": "Cuban Convertible Peso",
+    "numeric": 931,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "CUP",
+    "name": "Cuban Peso",
+    "numeric": 192,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "CVE",
+    "name": "Cabo Verde Escudo",
+    "numeric": 132,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "CZK",
+    "name": "Czech Koruna",
+    "numeric": 203,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "DJF",
+    "name": "Djibouti Franc",
+    "numeric": 262,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "DKK",
+    "name": "Danish Krone",
+    "numeric": 208,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "DOP",
+    "name": "Dominican Peso",
+    "numeric": 214,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "DZD",
+    "name": "Algerian Dinar",
+    "numeric": "012",
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "EGP",
+    "name": "Egyptian Pound",
+    "numeric": 818,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "ERN",
+    "name": "Eritrean Nakfa",
+    "numeric": 232,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "ETB",
+    "name": "Ethiopian Birr",
+    "numeric": 230,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "EUR",
+    "name": "Euro",
+    "numeric": 978,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "FJD",
+    "name": "Fiji Dollar",
+    "numeric": 242,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "FKP",
+    "name": "Falkland Islands Pound",
+    "numeric": 238,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "GBP",
+    "name": "Pound Sterling",
+    "numeric": 826,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "GEL",
+    "name": "Georgian Lari",
+    "numeric": 981,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "GHS",
+    "name": "Ghanaian Cedi",
+    "numeric": 936,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "GIP",
+    "name": "Gibraltar Pound",
+    "numeric": 292,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "GMD",
+    "name": "Gambian Dalasi",
+    "numeric": 270,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "GNF",
+    "name": "Guinean Franc",
+    "numeric": 324,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "GTQ",
+    "name": "Guatemalan Quetzal",
+    "numeric": 320,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "GYD",
+    "name": "Guyanese Dollar",
+    "numeric": 328,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "HKD",
+    "name": "Hong Kong Dollar",
+    "numeric": 344,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "HNL",
+    "name": "Honduran Lempira",
+    "numeric": 340,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "HRK",
+    "name": "Croatian Kuna",
+    "numeric": 191,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "HTG",
+    "name": "Haitian Gourde",
+    "numeric": 332,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "HUF",
+    "name": "Hungarian Forint",
+    "numeric": 348,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "IDR",
+    "name": "Indonesian Rupiah",
+    "numeric": 360,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "ILS",
+    "name": "New Israeli Sheqel",
+    "numeric": 376,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "INR",
+    "name": "Indian Rupee",
+    "numeric": 356,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "IQD",
+    "name": "Iraqi Dinar",
+    "numeric": 368,
+    "digits": 3,
+    "enabled": true
+  },
+  {
+    "code": "IRR",
+    "name": "Iranian Rial",
+    "numeric": 364,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "ISK",
+    "name": "Icelandic Króna",
+    "numeric": 352,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "JMD",
+    "name": "Jamaican Dollar",
+    "numeric": 388,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "JOD",
+    "name": "Jordanian Dinar",
+    "numeric": 400,
+    "digits": 3,
+    "enabled": true
+  },
+  {
+    "code": "JPY",
+    "name": "Japanese Yen",
+    "numeric": 392,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "KES",
+    "name": "Kenyan Shilling",
+    "numeric": 404,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "KGS",
+    "name": "Kyrgyzstani Som",
+    "numeric": 417,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "KHR",
+    "name": "Cambodian Riel",
+    "numeric": 116,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "KMF",
+    "name": "Comoro Franc",
+    "numeric": 174,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "KPW",
+    "name": "North Korean Won",
+    "numeric": 408,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "KRW",
+    "name": "South Korean Won",
+    "numeric": 410,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "KWD",
+    "name": "Kuwaiti Dinar",
+    "numeric": 414,
+    "digits": 3,
+    "enabled": true
+  },
+  {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar",
+    "numeric": 136,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "KZT",
+    "name": "Kazakhstani Tenge",
+    "numeric": 398,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "LAK",
+    "name": "Lao Kip",
+    "numeric": 418,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "LBP",
+    "name": "Lebanese Pound",
+    "numeric": 422,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "LKR",
+    "name": "Sri Lankan Rupee",
+    "numeric": 144,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "LRD",
+    "name": "Liberian Dollar",
+    "numeric": 430,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "LSL",
+    "name": "Lesotho Loti",
+    "numeric": 426,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "LYD",
+    "name": "Libyan Dinar",
+    "numeric": 434,
+    "digits": 3,
+    "enabled": true
+  },
+  {
+    "code": "MAD",
+    "name": "Moroccan Dirham",
+    "numeric": 504,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "MDL",
+    "name": "Moldovan Leu",
+    "numeric": 498,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "MGA",
+    "name": "Malagasy Ariary",
+    "numeric": 969,
+    "digits": 1,
+    "enabled": true
+  },
+  {
+    "code": "MKD",
+    "name": "Macedonian Denar",
+    "numeric": 807,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "MMK",
+    "name": "Myanmar Kyat",
+    "numeric": 104,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "MNT",
+    "name": "Mongolian Tögrög",
+    "numeric": 496,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "MOP",
+    "name": "Macanese Pataca",
+    "numeric": 446,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "MRO",
+    "name": "Mauritanian Ouguiya",
+    "numeric": 478,
+    "digits": 1,
+    "enabled": true
+  },
+  {
+    "code": "MUR",
+    "name": "Mauritian Rupee",
+    "numeric": 480,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "MVR",
+    "name": "Maldivian Rufiyaa",
+    "numeric": 462,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "MWK",
+    "name": "Malawian Kwacha",
+    "numeric": 454,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "MXN",
+    "name": "Mexican Peso",
+    "numeric": 484,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "MYR",
+    "name": "Malaysian Ringgit",
+    "numeric": 458,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "MZN",
+    "name": "Mozambique Metical",
+    "numeric": 943,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "NAD",
+    "name": "Namibian Dollar",
+    "numeric": 516,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "NGN",
+    "name": "Nigerian Naira",
+    "numeric": 566,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "NIO",
+    "name": "Nicaraguan Cordoba Oro",
+    "numeric": 558,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "NOK",
+    "name": "Norwegian Krone",
+    "numeric": 578,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "NPR",
+    "name": "Nepalese Rupee",
+    "numeric": 524,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "NZD",
+    "name": "New Zealand Dollar",
+    "numeric": 554,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "OMR",
+    "name": "Omani Rial",
+    "numeric": 512,
+    "digits": 3,
+    "enabled": true
+  },
+  {
+    "code": "PAB",
+    "name": "Panamanian Balboa",
+    "numeric": 590,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "PEN",
+    "name": "Peruvian Sol",
+    "numeric": 604,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "PGK",
+    "name": "Papua New Guinean Kina",
+    "numeric": 598,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "PHP",
+    "name": "Philippine Peso",
+    "numeric": 608,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "PKR",
+    "name": "Pakistan Rupee",
+    "numeric": 586,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "PLN",
+    "name": "PolishZloty",
+    "numeric": 985,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "PYG",
+    "name": "Paraguayan Guarani",
+    "numeric": 600,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "QAR",
+    "name": "Qatari Rial",
+    "numeric": 634,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "RON",
+    "name": "Romanian Leu",
+    "numeric": 946,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "RSD",
+    "name": "Serbian Dinar",
+    "numeric": 941,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "RUB",
+    "name": "Russian Ruble",
+    "numeric": 643,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "RWF",
+    "name": "Rwanda Franc",
+    "numeric": 646,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "SAR",
+    "name": "Saudi Riyal",
+    "numeric": 682,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar",
+    "numeric": "090",
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "SCR",
+    "name": "Seychelles Rupee",
+    "numeric": 690,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "SDG",
+    "name": "Sudanese Pound",
+    "numeric": 938,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "SEK",
+    "name": "Swedish Krona",
+    "numeric": 752,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "SGD",
+    "name": "Singapore Dollar",
+    "numeric": 702,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "SHP",
+    "name": "Saint Helena Pound",
+    "numeric": 654,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "SLL",
+    "name": "Sierra Leonean Leone",
+    "numeric": 694,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "SOS",
+    "name": "Somali Shilling",
+    "numeric": 706,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "SRD",
+    "name": "Surinamese Dollar",
+    "numeric": 968,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "SSP",
+    "name": "South Sudanese Pound",
+    "numeric": 728,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "STD",
+    "name": "São Tomé and Príncipe Dobra",
+    "numeric": 678,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "SVC",
+    "name": "Salvadoran Colon",
+    "numeric": 222,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "SYP",
+    "name": "Syrian Pound",
+    "numeric": 760,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "SZL",
+    "name": "Swazi Lilangeni",
+    "numeric": 748,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "THB",
+    "name": "Thai Baht",
+    "numeric": 764,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "TJS",
+    "name": "Tajikistani Somoni",
+    "numeric": 972,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "TMT",
+    "name": "Turkmenistani New Manat",
+    "numeric": 934,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "TND",
+    "name": "Tunisian Dinar",
+    "numeric": 788,
+    "digits": 3,
+    "enabled": true
+  },
+  {
+    "code": "TOP",
+    "name": "Tongan Pa’anga",
+    "numeric": 776,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "TRY",
+    "name": "Turkish Lira",
+    "numeric": 949,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar",
+    "numeric": 780,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "TWD",
+    "name": "New Taiwan Dollar",
+    "numeric": 901,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "TZS",
+    "name": "Tanzanian Shilling",
+    "numeric": 834,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "UAH",
+    "name": "Ukrainian Hryvnia",
+    "numeric": 980,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "UGX",
+    "name": "Ugandan Shilling",
+    "numeric": 800,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "USD",
+    "name": "United States Dollar",
+    "numeric": 840,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "UYU",
+    "name": "Uruguayan Peso",
+    "numeric": 858,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "UZS",
+    "name": "Uzbekistan Som",
+    "numeric": 860,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "VEF",
+    "name": "Venezuelan Bolívar",
+    "numeric": 937,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "VND",
+    "name": "Vietnamese Đồng",
+    "numeric": 704,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "VUV",
+    "name": "Vanuatu Vatu",
+    "numeric": 548,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "WST",
+    "name": "Samoan Tala",
+    "numeric": 882,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "XAF",
+    "name": "CFA Franc BEAC",
+    "numeric": 950,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "XAG",
+    "name": "Silver",
+    "numeric": 961,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "XAU",
+    "name": "Gold",
+    "numeric": 959,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "XBA",
+    "name": "Bond Markets Unit European Composite Unit (EURCO)",
+    "numeric": 955,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "XBB",
+    "name": "Bond Markets Unit European Monetary Unit (E.M.U.-6)",
+    "numeric": 956,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "XBC",
+    "name": "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)",
+    "numeric": 957,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "XBD",
+    "name": "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)",
+    "numeric": 958,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "XCD",
+    "name": "East Caribbean Dollar",
+    "numeric": 951,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "XDR",
+    "name": "SDR (Special Drawing Right)",
+    "numeric": 960,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "XOF",
+    "name": "CFA Franc BCEAO",
+    "numeric": 952,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "XPD",
+    "name": "Palladium",
+    "numeric": 964,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "XPF",
+    "name": "CFP Franc",
+    "numeric": 953,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "XPT",
+    "name": "Platinum",
+    "numeric": 962,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "XSU",
+    "name": "Sucre",
+    "numeric": 994,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "XTS",
+    "name": "Codes specifically reserved for testing purposes",
+    "numeric": 963,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "XUA",
+    "name": "ADB Unit of Account",
+    "numeric": 965,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "XXX",
+    "name": "The codes assigned for transactions where no currency is involved",
+    "numeric": 999,
+    "digits": 0,
+    "enabled": true
+  },
+  {
+    "code": "YER",
+    "name": "Yemeni Rial",
+    "numeric": 886,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "ZAR",
+    "name": "South African Rand",
+    "numeric": 710,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "ZMW",
+    "name": "Zambian Kwacha",
+    "numeric": 967,
+    "digits": 2,
+    "enabled": true
+  },
+  {
+    "code": "ZWL",
+    "name": "Zimbabwean Dollar",
+    "numeric": 932,
+    "digits": 2,
+    "enabled": true
+  }
+]

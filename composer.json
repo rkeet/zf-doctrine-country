@@ -1,0 +1,34 @@
+{
+  "name" : "rkeet/zf-doctrine-country",
+  "description" : "Zend Framework with Doctrine Entity classes for: Country, Currency, Language, Timezone and Coordinates.",
+  "keywords" : [
+    "zend",
+    "framework",
+    "zend framework",
+    "zf",
+    "zf3",
+    "mvc",
+    "doctrine",
+    "iso-3166-1",
+    "iso-3166-2",
+    "iso-3166-3",
+    "iso-4217"
+  ],
+  "homepage" : "https://keet.me/",
+  "require" : {
+    "php" : "^7.2",
+    "ext-intl" : "*",
+    "ext-json" : "*",
+    "ext-gettext" : "*",
+    "rkeet/zf-doctrine-mvc" : "^1.1",
+    "rkeet/zf-doctrine-form" : "^1.1"
+  },
+  "autoload" : {
+    "psr-4" : {
+      "Keet\\Country\\" : "src/"
+    },
+    "classmap" : [
+      "src/Module.php"
+    ]
+  }
+}
