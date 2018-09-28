@@ -16,7 +16,7 @@ class LanguageRepository extends EntityRepository
      */
     public function getEnabledLanguages() : Collection
     {
-        return $this->findBy(['enabled' => true], ['name' => 'ASC']);
+        return new ArrayCollection($this->findBy(['enabled' => true], ['name' => 'ASC']));
     }
 
     /**

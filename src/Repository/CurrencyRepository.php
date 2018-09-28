@@ -16,7 +16,7 @@ class CurrencyRepository extends EntityRepository
      */
     public function getEnabledCurrencies() : Collection
     {
-        return $this->findBy(['enabled' => true], ['name' => 'ASC']);
+        return new ArrayCollection($this->findBy(['enabled' => true], ['name' => 'ASC']));
     }
 
     /**

@@ -16,7 +16,7 @@ class CountryRepository extends EntityRepository
      */
     public function getEnabledCountries() : Collection
     {
-        return $this->findBy(['enabled' => true], ['name' => 'ASC']);
+        return new ArrayCollection($this->findBy(['enabled' => true], ['name' => 'ASC']));
     }
 
     /**
