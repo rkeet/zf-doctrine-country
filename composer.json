@@ -14,7 +14,13 @@
     "iso-3166-3",
     "iso-4217"
   ],
-  "homepage" : "https://keet.me/",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Robin Keet",
+      "homepage": "https://github.com/rkeet"
+    }
+  ],
   "require" : {
     "php" : "^7.2",
     "ext-intl" : "*",
