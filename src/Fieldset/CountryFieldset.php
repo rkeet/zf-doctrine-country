@@ -74,12 +74,13 @@ class CountryFieldset extends AbstractDoctrineFieldset
                     'property'           => 'id',
                     'is_method'          => true,
                     'find_method'        => [
-                        'name' => 'getEnabledAndShopCtrlSupportedCurrencies',
+                        'name' => 'getEnabledCurrencies',
                     ],
                     'display_empty_item' => true,
                     'empty_item_label'   => '---',
                     'label'              => _('Currency'),
                     'label_generator'    => function ($targetEntity) {
+                        /** @var Currency $targetEntity */
                         return $targetEntity->getName() . ' (' . $targetEntity->getCode() . ')';
                     },
                 ],
