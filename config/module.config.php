@@ -23,6 +23,7 @@ use Keet\Country\Factory\InputFilter\Form\CountryFormInputFilterFactory;
 use Keet\Country\Factory\InputFilter\Form\CurrencyFormInputFilterFactory;
 use Keet\Country\Factory\InputFilter\Form\LanguageFormInputFilterFactory;
 use Keet\Country\Factory\InputFilter\Form\TimezoneFormInputFilterFactory;
+use Keet\Country\Factory\Service\LocaleOptionsManagerFactory;
 use Keet\Country\Fieldset\CoordinatesFieldset;
 use Keet\Country\Fieldset\CountryFieldset;
 use Keet\Country\Fieldset\CurrencyFieldset;
@@ -43,6 +44,7 @@ use Keet\Country\InputFilter\Form\CountryFormInputFilter;
 use Keet\Country\InputFilter\Form\CurrencyFormInputFilter;
 use Keet\Country\InputFilter\Form\LanguageFormInputFilter;
 use Keet\Country\InputFilter\Form\TimezoneFormInputFilter;
+use Keet\Country\Service\LocaleOptionsManager;
 
 return [
     'doctrine'      => [
@@ -96,6 +98,11 @@ return [
             LanguageFieldsetInputFilter::class    => LanguageFieldsetInputFilterFactory::class,
             TimezoneFormInputFilter::class        => TimezoneFormInputFilterFactory::class,
             TimezoneFieldsetInputFilter::class    => TimezoneFieldsetInputFilterFactory::class,
+        ],
+    ],
+    'service_manager' => [
+        'factories' => [
+            LocaleOptionsManager::class  => LocaleOptionsManagerFactory::class,
         ],
     ],
 ];
