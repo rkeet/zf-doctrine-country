@@ -27,7 +27,9 @@
     "ext-json" : "*",
     "ext-gettext" : "*",
     "rkeet/zf-doctrine-mvc" : "^0.1",
-    "rkeet/zf-doctrine-form" : "^1.2"
+    "rkeet/zf-doctrine-form" : "^1.2",
+    "zendframework/zend-cache": "^2.8",
+    "zendframework/zend-serializer" : "^2.9"
   },
   "autoload" : {
     "psr-4" : {
